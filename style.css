@@ -150,7 +150,6 @@ h2 {
 }
 
 .item1 {
-    background:blue;
     grid-area:base;
     max-height: 250px;
     overflow: hidden;
@@ -161,7 +160,7 @@ h2 {
 
 
 .item2 {
-    background-color: pink;
+   
     grid-area:spotify;
     max-height: 250px;
     overflow: hidden;
@@ -172,7 +171,6 @@ h2 {
 }
 
 .item3 {
-    background-color: antiquewhite;
     grid-area:cocktail;
     max-height: 250px;
     overflow: hidden;
@@ -182,7 +180,6 @@ h2 {
 }
 
 .item4 {
-    background-color: aquamarine;
     grid-area:toaster;
     max-height:250px;
     overflow: hidden;
@@ -192,7 +189,6 @@ h2 {
 }
 
 .item5 {
-    background-color: cadetblue;
     grid-area:primavera;
     max-height: 250px;
     overflow: hidden;
@@ -202,7 +198,7 @@ h2 {
 }
 
 .item6 {
-    background-color: orange;
+    
     grid-area: radio;
     max-height: 250px;
     overflow: hidden;
